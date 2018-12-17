@@ -11,7 +11,6 @@ exit
 进入redis根目录下输入redis-server.exe redis.windows.conf
 ```
 
-i
 
 ### redis连接池
 
